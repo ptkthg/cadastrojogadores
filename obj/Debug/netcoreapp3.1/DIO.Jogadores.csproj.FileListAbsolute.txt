@@ -1,0 +1,4 @@
+C:\Users\Patrick\Desktop\DIO.Jogadores\obj\Debug\netcoreapp3.1\DIO.Jogadores.csprojAssemblyReference.cache
+C:\Users\Patrick\Desktop\DIO.Jogadores\obj\Debug\netcoreapp3.1\DIO.Jogadores.AssemblyInfoInputs.cache
+C:\Users\Patrick\Desktop\DIO.Jogadores\obj\Debug\netcoreapp3.1\DIO.Jogadores.AssemblyInfo.cs
+C:\Users\Patrick\Desktop\DIO.Jogadores\obj\Debug\netcoreapp3.1\DIO.Jogadores.csproj.CoreCompileInputs.cache
